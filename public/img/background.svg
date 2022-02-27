@@ -1,0 +1,24 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_f_56_435)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 807.285L38 809.86C76 812.435 152 817.586 229 815.011C305 812.435 381 802.134 457 807.285C533 812.435 610 833.039 686 827.888C762 822.737 838 791.832 914 784.106C990 776.379 1067 791.832 1143 799.558C1219 807.285 1295 807.285 1371 812.435C1448 817.586 1524 827.888 1562 833.039L1600 838.19V900H1562C1524 900 1448 900 1371 900C1295 900 1219 900 1143 900C1067 900 990 900 914 900C838 900 762 900 686 900C610 900 533 900 457 900C381 900 305 900 229 900C152 900 76 900 38 900H0V807.285Z" fill="url(#paint0_radial_56_435)" fill-opacity="0.4"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 807.285L38 809.86C76 812.435 152 817.586 229 815.011C305 812.435 381 802.134 457 807.285C533 812.435 610 833.039 686 827.888C762 822.737 838 791.832 914 784.106C990 776.379 1067 791.832 1143 799.558C1219 807.285 1295 807.285 1371 812.435C1448 817.586 1524 827.888 1562 833.039L1600 838.19V900H1562C1524 900 1448 900 1371 900C1295 900 1219 900 1143 900C1067 900 990 900 914 900C838 900 762 900 686 900C610 900 533 900 457 900C381 900 305 900 229 900C152 900 76 900 38 900H0V807.285Z" stroke="black"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1326.09 -28.4265C1381.74 -28.3725 1441.91 -52.8528 1484.58 -32.6918C1531.6 -10.475 1554.52 34.7107 1521.3 63.808C1490.15 91.1012 1414.5 68.6684 1359.05 77.2857C1325.79 82.454 1305.41 106.262 1271.52 102.624C1229.13 98.0719 1194.76 80.1299 1177.54 57.7963C1154.97 28.5378 1127.51 -10.124 1166.92 -33C1205.89 -55.6185 1270.2 -28.4807 1326.09 -28.4265Z" fill="url(#paint1_linear_56_435)"/>
+<defs>
+<filter id="filter0_f_56_435" x="-1" y="781" width="1602" height="120" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="0.5" result="effect1_foregroundBlur_56_435"/>
+</filter>
+<radialGradient id="paint0_radial_56_435" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(8.52886e-06 841) scale(1600 21694.9)">
+<stop stop-color="#FD9DBC"/>
+<stop offset="0.315625" stop-color="#FFC5BB"/>
+<stop offset="0.622917" stop-color="#FFA1FF"/>
+<stop offset="1" stop-color="#AC64FF"/>
+</radialGradient>
+<linearGradient id="paint1_linear_56_435" x1="1147" y1="8.00002" x2="1537" y2="80" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F2E8FE"/>
+<stop offset="1" stop-color="#FEE6EE"/>
+</linearGradient>
+</defs>
+</svg>
