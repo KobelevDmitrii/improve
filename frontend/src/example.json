@@ -1,0 +1,36 @@
+{
+    "lessons" : [
+        {
+            "date": "Tue. 18 June",
+            "name":"English",
+            "topic":"Reading",
+            "class":"6th grade",
+            "Time": "10:00 - 10:45",
+            "venue": "Distance learning"
+        },
+        {
+            "date": "Tue. 18 June",
+            "name":"English",
+            "topic":"Speaking",
+            "class":"7th grade",
+            "Time": "11:00 - 11:45",
+            "venue": "Distance learning"
+        },
+        {
+            "date": "Tue. 18 June",
+            "name":"English",
+            "topic":"Reading",
+            "class":"8th grade",
+            "Time": "12:00 - 12:45",
+            "venue": "Distance learning"
+        },
+        {
+            "date": "Tue. 18 June",
+            "name":"English",
+            "topic":"Reading",
+            "class":"8th grade",
+            "Time": "13:00 - 12:45",
+            "venue": "Distance learning"
+        }
+    ]
+}
